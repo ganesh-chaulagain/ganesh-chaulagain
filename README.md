@@ -15,9 +15,9 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/gan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-chaulagain&layout=compact)](https://ghttps://github.com/ganesh-chaulagain)
 ### :gear: My skills include:
 
-- **Languages**: `Python`, `R`, `HTML / CSS / JS`
+- **Languages**: `Python`, `C`, `HTML'
 
-- **Databases**: `MySQL`, `MongoDB`
+- **Databases**: `MySQL`
 
 - **Big Data Tools**: `Hive`, `Sqoop`, `Pig`, `Hbase`
 
